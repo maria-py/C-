@@ -1,0 +1,14 @@
+E:\pnaya\radix\bin\Debug\radix.exe.config
+E:\pnaya\radix\bin\Debug\radix.exe
+E:\pnaya\radix\bin\Debug\radix.pdb
+E:\pnaya\radix\obj\Debug\radix.csprojAssemblyReference.cache
+E:\pnaya\radix\obj\Debug\radix.csproj.CoreCompileInputs.cache
+E:\pnaya\radix\obj\Debug\radix.exe
+E:\pnaya\radix\obj\Debug\radix.pdb
+F:\С#\radix\bin\Debug\radix.exe.config
+F:\С#\radix\bin\Debug\radix.exe
+F:\С#\radix\bin\Debug\radix.pdb
+F:\С#\radix\obj\Debug\radix.csprojAssemblyReference.cache
+F:\С#\radix\obj\Debug\radix.csproj.CoreCompileInputs.cache
+F:\С#\radix\obj\Debug\radix.exe
+F:\С#\radix\obj\Debug\radix.pdb
